@@ -1,0 +1,7 @@
+ts,scope,status,canonical,reason_code,reason,owner,evidence
+2026-11-14T08:50:39+00:00,t07,HOLD,HOLD,REVIEW_PENDING,Queue not yet reviewed by a human; do not release redacted set,Nguyen Xuan Khanh - reviewer,
+2026-11-14T09:04:36+00:00,t07,HOLD,HOLD,REVIEW_PENDING,Queue not yet reviewed by a human; do not release redacted set,Nguyen Xuan Khanh - reviewer,
+2026-11-14T09:26:04+00:00,t07,HOLD,HOLD,REVIEW_PENDING,Queue not yet reviewed by a human; do not release redacted set,Nguyen Xuan Khanh - reviewer,
+2026-11-14T09:55:13+00:00,t07,HOLD,HOLD,REVIEW_PENDING,Queue not yet reviewed by a human; do not release redacted set,Nguyen Xuan Khanh - reviewer,
+2026-11-14T09:55:43+00:00,t07,HOLD,HOLD,REVIEW_PENDING,Queue not yet reviewed by a human; do not release redacted set,Nguyen Xuan Khanh - reviewer,
+2026-11-14T09:56:42+00:00,t07,GO,GO,REVIEWED_QUEUE_OK,"Queue reviewed with audit log; output is redacted/pseudonymised, not anonymised",Nguyen Xuan Khanh - reviewer,
