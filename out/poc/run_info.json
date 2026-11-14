@@ -1,0 +1,27 @@
+{
+  "track": "t07",
+  "run_name": "poc",
+  "status": 0,
+  "seed": 42,
+  "offline": true,
+  "input": "fixtures/t07_redaction",
+  "output": "out/poc",
+  "pipeline": "src.pipeline",
+  "config_hash": "98ece53f8576",
+  "git_sha": null,
+  "runtime_seconds": 0.8463,
+  "stats": {
+    "n_items": 60,
+    "n_reviewed": 15
+  },
+  "machine": {
+    "python": "3.15.2",
+    "platform": "macOS-26.5-arm64-arm-64bit-Mach-O",
+    "processor": "arm"
+  },
+  "output_check": {
+    "pred_file": "out/poc/redactions.csv",
+    "exists": true,
+    "missing_columns": []
+  }
+}

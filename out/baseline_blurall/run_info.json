@@ -1,0 +1,26 @@
+{
+  "track": "t07",
+  "run_name": "blur_all",
+  "status": 0,
+  "seed": 42,
+  "offline": true,
+  "input": "fixtures/t07_redaction",
+  "output": "out/baseline_blurall",
+  "pipeline": "src.baseline_t07",
+  "config_hash": "c23cfc538410",
+  "git_sha": null,
+  "runtime_seconds": 0.0426,
+  "stats": {
+    "n_items": 60
+  },
+  "machine": {
+    "python": "3.15.2",
+    "platform": "macOS-26.5-arm64-arm-64bit-Mach-O",
+    "processor": "arm"
+  },
+  "output_check": {
+    "pred_file": "out/baseline_blurall/redactions.csv",
+    "exists": true,
+    "missing_columns": []
+  }
+}

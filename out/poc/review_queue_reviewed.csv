@@ -1,0 +1,16 @@
+rank,item_id,score,reason,suggested_action,slice,evidence_path,reviewer,reviewer_decision,override_value,review_note,reviewed_at
+1,pii_35#5,0.647,face conf=0.353,,face,images/pii_35.jpg,Nguyen Xuan Khanh,reject,,không phải PII: khung nằm trên bánh xe/người đi xe máy,2026-11-14T09:56:41+00:00
+2,pii_05#2,0.609,face conf=0.391,,face,images/pii_05.jpg,Nguyen Xuan Khanh,approve,,"mặt nhỏ, khung đúng",2026-11-14T09:56:41+00:00
+3,pii_56#2,0.579,plate conf=0.421,,plate,images/pii_56.jpg,Nguyen Xuan Khanh,approve,,"biển số, khung phủ đủ",2026-11-14T09:56:41+00:00
+4,pii_13#4,0.563,plate conf=0.437,,plate,images/pii_13.jpg,Nguyen Xuan Khanh,escalate,,chữ biển số tràn ra ngoài mép phải khung,2026-11-14T09:56:41+00:00
+5,pii_35#6,0.554,plate conf=0.446,,plate,images/pii_35.jpg,Nguyen Xuan Khanh,escalate,,chữ biển số tràn ra ngoài mép phải khung,2026-11-14T09:56:41+00:00
+6,pii_49#4,0.55,plate conf=0.45,,plate,images/pii_49.jpg,Nguyen Xuan Khanh,escalate,,chữ biển số tràn ra ngoài mép phải khung,2026-11-14T09:56:41+00:00
+7,pii_11#1,0.545,plate conf=0.455,,plate,images/pii_11.jpg,Nguyen Xuan Khanh,escalate,,chữ biển số tràn ra ngoài mép phải khung,2026-11-14T09:56:41+00:00
+8,pii_34#6,0.544,plate conf=0.456,,plate,images/pii_34.jpg,Nguyen Xuan Khanh,escalate,,chữ biển số tràn ra ngoài mép phải khung,2026-11-14T09:56:41+00:00
+9,pii_50#3,0.542,plate conf=0.458,,plate,images/pii_50.jpg,Nguyen Xuan Khanh,approve,,"biển số, khung phủ đủ",2026-11-14T09:56:41+00:00
+10,pii_56#1,0.532,face conf=0.468,,face,images/pii_56.jpg,Nguyen Xuan Khanh,approve,,"mặt nhỏ trong ảnh tối, khung đúng; còn mặt lớn bên trái bị bỏ sót",2026-11-14T09:56:41+00:00
+11,pii_25#3,0.527,plate conf=0.473,,plate,images/pii_25.jpg,Nguyen Xuan Khanh,escalate,,chữ biển số tràn ra ngoài mép phải khung,2026-11-14T09:56:41+00:00
+12,pii_01#1,0.507,plate conf=0.493,,plate,images/pii_01.jpg,Nguyen Xuan Khanh,approve,,"biển số, khung phủ đủ",2026-11-14T09:56:41+00:00
+13,pii_21#7,0.505,plate conf=0.495,,plate,images/pii_21.jpg,Nguyen Xuan Khanh,approve,,"biển số, khung phủ đủ",2026-11-14T09:56:41+00:00
+14,pii_00#5,0.502,face conf=0.498,,face,images/pii_00.jpg,Nguyen Xuan Khanh,reject,,không phải PII: khung nằm trên bánh xe/người đi xe máy,2026-11-14T09:56:41+00:00
+15,pii_52#5,0.489,plate conf=0.511,,plate,images/pii_52.jpg,Nguyen Xuan Khanh,approve,,"biển số, khung phủ đủ",2026-11-14T09:56:41+00:00

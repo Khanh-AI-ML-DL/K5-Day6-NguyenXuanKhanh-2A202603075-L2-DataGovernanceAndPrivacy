@@ -1,0 +1,11 @@
+{
+  "status": "HOLD",
+  "reason_code": "BASELINE_ONLY",
+  "reason": "T07 baseline (blur_all): no review queue",
+  "owner": "Nguyen Xuan Khanh - reviewer",
+  "scope": "t07",
+  "evidence": [],
+  "metrics": {},
+  "ts": "2026-11-14T08:53:27+00:00",
+  "canonical": "HOLD"
+}

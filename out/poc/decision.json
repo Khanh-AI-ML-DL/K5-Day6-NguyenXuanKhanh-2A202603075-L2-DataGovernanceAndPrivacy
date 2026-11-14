@@ -1,0 +1,11 @@
+{
+  "status": "GO",
+  "reason_code": "REVIEWED_QUEUE_OK",
+  "reason": "Queue reviewed with audit log; output is redacted/pseudonymised, not anonymised",
+  "owner": "Nguyen Xuan Khanh - reviewer",
+  "scope": "t07",
+  "evidence": [],
+  "metrics": {},
+  "ts": "2026-11-14T10:21:24+00:00",
+  "canonical": "GO"
+}
